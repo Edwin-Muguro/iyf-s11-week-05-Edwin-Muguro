@@ -1,1 +1,37 @@
-# iyf-s11-week-05-Edwin-Muguro
+# Week 5: DOM Manipulation
+
+## Author
+- **Name:** Edwin Kamau Muguro
+- **GitHub:** @Edwin-Muguro (https://github.com/Edwin-Muguro)
+- **Date:** 07 19, 2026
+
+## Project Description
+Document Object Model Manipulation excercise.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## How to Run
+1. Clone this repository
+2. Open `index.html` in your browser
+   OR
+   Run `npm install` then `npm start`
+
+## Lessons Learned
+What did you learn while building this project?
+
+## Challenges Faced
+What problems did you encounter and how did you solve them?
+
+## Screenshots (optional)
+![Screenshot description](path/to/screenshot.png)
+
+## Live Demo (if deployed)
+[View Live Demo](https://your-deployed-url.com)
