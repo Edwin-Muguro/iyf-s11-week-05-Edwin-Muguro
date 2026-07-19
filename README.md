@@ -29,9 +29,3 @@ What did you learn while building this project?
 
 ## Challenges Faced
 What problems did you encounter and how did you solve them?
-
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
-## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
